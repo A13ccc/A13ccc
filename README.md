@@ -60,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/A13ccc/A13ccc/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/A13ccc/A13ccc/main/output/snake.svg" alt="Snake animation" />
 
 ###
