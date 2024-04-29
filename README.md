@@ -4,11 +4,15 @@
 
 ###
 
-<h3 align="center">Hey, I'm Alec or A31c</h3>
+### 30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@A13ccc/30-nites-of-code)  
+  ![@A13ccc #30NitesOfCode](https://www.codedex.io/api/petStatus?user=A13ccc)
+
+<h3 align="center">Hey, I'm Alec or A13c</h3>
 
 ###
 
-<h5 align="center">I haven't really done much with the little knowledge and understanding of computers, their code and how they work but I'm trying to change that :)<br><br>Right now I'm learning C# and want to learn Java</h5>
+<h5 align="center">I haven't really done much with the little knowledge and understanding of computers, their code and how they work but I'm trying to change that :)<br><br>Right now I'm learning Python 3.12 and want to learn Java, C# and JS.</h5>
 
 ###
 
