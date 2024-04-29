@@ -6,7 +6,7 @@
 
 ### 30NitesOfCode:
 [Check out my progress!](https://www.codedex.io/@A13ccc/30-nites-of-code)
-[@A13ccc #30NitesOfCode](https://www.codedex.io/api/petStatus?user=A13ccc)
+![@A13ccc #30NitesOfCode](https://www.codedex.io/api/petStatus?user=A13ccc)
 
 <h3>Hey, I'm Alec or A13c</h3>
 
