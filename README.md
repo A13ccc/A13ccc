@@ -5,8 +5,8 @@
 ###
 
 ### 30NitesOfCode:
-  <h3 align="center">[Check out my progress!](https://www.codedex.io/@A13ccc/30-nites-of-code)</h3>  
-  <h5 align="center">![@A13ccc #30NitesOfCode](https://www.codedex.io/api/petStatus?user=A13ccc)</h5>
+  <p align="center">[Check out my progress!](https://www.codedex.io/@A13ccc/30-nites-of-code)</p>  
+  <p align="center">![@A13ccc #30NitesOfCode](https://www.codedex.io/api/petStatus?user=A13ccc)</p>
 
 <h3 align="center">Hey, I'm Alec or A13c</h3>
 
